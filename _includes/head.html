@@ -31,9 +31,13 @@
       var trackOutboundLink = function(url) {
         ga('send', 'event', 'outbound', 'click', url, {'hitCallback':
          function () {
-         document.location = url;
+          document.location = url;
          }
         });
+
+        if (typeof ga == 'undefined') {
+          document.location = url;
+        }
       }
 
     </script>
