@@ -35,9 +35,7 @@
          }
         });
 
-        if (typeof ga == 'undefined') {
-          document.location = url;
-        }
+        setTimeout('document.location = "' + url + '"', 200);
       }
 
     </script>
