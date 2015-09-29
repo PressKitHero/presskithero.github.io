@@ -3,7 +3,7 @@ layout:     post
 title:      "How To Create A Professional Press Kit With PresskitHero For Shopify"
 subtitle:   "A 5 Minute Get Started Guide"
 date:       2015-09-22 12:00:00
-author:     "wnm"
+author:     "Wolfram Müller"
 header-img: "img/started.jpg"
 ---
 <h1>A 5 Minute Guide For Creating A Professional Press Kit for your Shopify Store </h1>
