@@ -5,6 +5,7 @@ subtitle:   ""
 date:       2015-09-28 12:00:00
 author:     "Wolfram Müller"
 header-img: "img/pitch/pitch.jpg"
+og-img: "img/pitch/og.jpg"
 ---
 # How To Write A Convincing Pitch For Your Business
 
