@@ -4,8 +4,7 @@ header-img: img/home-bg-2.jpg
 email: hello@presskithero.com
 description: "Official blog of PresskitHero.com"
 baseurl: ""
-url: "http://presskithero.com"
-twitter_username: presskithero
+url: "http://blog.presskithero.com"
 
 # Build settings
 markdown: kramdown
