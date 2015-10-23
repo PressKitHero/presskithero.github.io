@@ -7,6 +7,7 @@ author:     "Wolfram Müller"
 header-img: "img/speed/header.jpg"
 og-img: "img/speed/og.jpg"
 ---
+
 # How To Speed Up Your Shopify Store
 
 First, let me set the stage:
@@ -239,4 +240,5 @@ If you like this post, feel free to share it on <a href="https://twitter.com/int
 
 If you are interested in creating a professional press kit for your Shopify store, check out my app <a href="https://apps.shopify.com/presskithero">PresskitHero</a>
 
+<script src="//load.sumome.com/" data-sumo-site-id="ec872333eecf0b402630b94fff19e40ee21f92463f1f9f5b223102f1797ad689" async="async"></script>
 
