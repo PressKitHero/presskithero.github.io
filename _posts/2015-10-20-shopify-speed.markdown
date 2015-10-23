@@ -240,3 +240,5 @@ If you have any question, don't hesitate to write me at <a href="mailto:hello@pr
 If you like this post, feel free to share it on <a href="https://twitter.com/intent/tweet?text=How%20To%20Speed%20Up%20Your%20Shopify%20Store&tw_p=tweetbutton&url=http://blog.presskithero.com/2015/10/20/shopify-speed/&via=presskithero">twitter</a> or <a href="http://www.facebook.com/sharer/sharer.php?u=http://blog.presskithero.com/2015/10/20/shopify-speed/">Facebook</a>
 
 If you are interested in creating a professional press kit for your Shopify store, check out my app <a href="https://apps.shopify.com/presskithero">PresskitHero</a>
+
+<a data-sumome-discover-grid></a>
