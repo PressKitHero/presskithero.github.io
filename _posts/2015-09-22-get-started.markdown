@@ -143,5 +143,5 @@ Lastly you can upload images, screenshots of your app, photos of your product or
 </p>
 
 <p>
- Get PresskitHero for Shopify <a href="https://apps.shopify.com/presskithero">here</a>.
+ Get PresskitHero for Shopify <a href="https://apps.shopify.com/presskithero?utm_source=blog&utm_medium=link&utm_campaign=get-started">here</a>.
 </p>

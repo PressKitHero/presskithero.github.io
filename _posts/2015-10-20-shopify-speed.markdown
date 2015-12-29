@@ -131,7 +131,7 @@ What is a problem though: It loads those javascript files even if you don't **us
 
 On my test store, I installed 12 apps, and use none of them*. Result: 71 http requests.
 
-<small>* Well, actually I use one: I installed my app <a href="https://apps.shopify.com/presskithero">PresskitHero</a>, so I could shamelessly tell you about it at this point of the tutorial.</small>
+<small>* Well, actually I use one: I installed my app <a href="https://apps.shopify.com/presskithero?utm_source=blog&utm_medium=link&utm_campaign=speed">PresskitHero</a>, so I could shamelessly tell you about it at this point of the tutorial.</small>
 
 So am I really recommending uninstalling apps for improving your store's performance, even though I make a living as a Shopify app developer? Well yes! Not the once you are using of course. But absolutely, please do remove the once you are currently not using.
 
@@ -238,4 +238,4 @@ If you have any question, don't hesitate to write me at <a href="mailto:hello@pr
 
 If you like this post, feel free to share it on <a href="https://twitter.com/intent/tweet?text=How%20To%20Speed%20Up%20Your%20Shopify%20Store&tw_p=tweetbutton&url=http://blog.presskithero.com/2015/10/20/shopify-speed/&via=presskithero">twitter</a> or <a href="http://www.facebook.com/sharer/sharer.php?u=http://blog.presskithero.com/2015/10/20/shopify-speed/">Facebook</a>
 
-If you are interested in creating a professional press kit for your Shopify store, check out my app <a href="https://apps.shopify.com/presskithero">PresskitHero</a>
+If you are interested in creating a professional press kit for your Shopify store, check out my app <a href="https://https://apps.shopify.com/presskithero?utm_source=blog&utm_medium=link-footer&utm_campaign=speed">PresskitHero</a>

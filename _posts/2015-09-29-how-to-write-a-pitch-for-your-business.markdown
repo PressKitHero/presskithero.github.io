@@ -73,5 +73,7 @@ and last, of course
 
 Your complete pitch would start off with your one sentence pitch, then include every information about your business just stated matter-of-factly. When you approach it like this, I think it is relatively easy to come up with a complete text for your press kit. Hopefully this is helpful for getting started. Happy writing, everybody!
 
+Create a press kit for your Shopify Store with <a href="https://apps.shopify.com/presskithero?utm_source=blog&utm_medium=link&utm_campaign=how-to-pitch">Presskithero</a>.
+
 
 
