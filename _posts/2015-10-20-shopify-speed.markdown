@@ -103,7 +103,7 @@ I deleted all images on my store and replaced them with the optimized versions. 
 
 <small>*Why only 400kb, although panda saved me 3MB? Probably because Shopify also does some image optimizations when you upload them.</small>
 
-### Step 2 (b): Reduze the number of high resolution images
+### Step 2 (b): Reduce the number of high resolution images
 
 I know content sliders are popular. A lot of themes offer them. A lot of store's have them. 
 
@@ -111,7 +111,7 @@ But think about if you really need them. Or at least think about if you can redu
 
 I reduced my slider to only two slides, chopping off another **600kb** and making the site another few hundred milliseconds faster. Totally worth it.
 
-## Step 3: Reduze the number of apps installed
+## Step 3: Reduce the number of apps installed
 
 Although a little faster, my site still gets a pretty bad performance grade on Google Pagespeed Insights and Pingdom. I wonder if it's because the site makes **71 http requests?!?**
 
