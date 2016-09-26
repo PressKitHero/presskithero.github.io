@@ -133,13 +133,13 @@ On my test store, I installed 12 apps, and use none of them*. Result: 71 http re
 
 <small>* Well, actually I use one: I installed my app <a href="https://apps.shopify.com/presskithero?utm_source=blog&utm_medium=link&utm_campaign=speed">PresskitHero</a>, so I could shamelessly tell you about it at this point of the tutorial.</small>
 
-So am I really recommending uninstalling apps for improving your store's performance, even though I make a living as a Shopify app developer? Well yes! Not the once you are using of course. But absolutely, please do remove the once you are currently not using.
+So am I really recommending uninstalling apps for improving your store's performance, even though I make a living as a Shopify app developer? Well yes! Not the ones you are using of course. But absolutely, please do remove the ones you are currently not using.
 
 On my test store I removed all, but four apps that I think are essential, and...
 
 ### The results
 
-I removed **40 unnecessary http requests**, reduzed page size by another **300kb** and again made the site a few hundred milliseconds faster.
+I removed **40 unnecessary http requests**, reduced page size by another **300kb** and again made the site a few hundred milliseconds faster.
 
 ## Step 4: Choose a fast Theme
 
